@@ -1,6 +1,7 @@
 # 👋 Olá! Eu sou a Dálete Jesus
 
 💻 Estudante de **Engenharia de Software**  
+🦉 Pedagoga
 🌱 Atualmente aprendendo **HTML**, **CSS** e **JavaScript**  
 🚀 Criando meus primeiros projetos e construindo meu portfólio  
 📍 Brasil
