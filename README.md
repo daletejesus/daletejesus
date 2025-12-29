@@ -19,8 +19,14 @@ Meu objetivo é evoluir como desenvolvedora, aprender novas ferramentas e criar 
 
 - HTML5  
 - CSS3  
-- JavaScript  
-- Git e GitHub  
+- JavaScript
+- Desenvolvimento de aplicações web com Next.js
+- TypeScript
+- Tailwind CSS
+- Criação de rotas REST API
+- Manipulação de dados com Prisma ORM
+- Banco de dados PostgreSQL
+- Git e Github
 
 ---
 
