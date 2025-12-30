@@ -38,6 +38,9 @@ Página web feita com HTML e CSS para apresentar meu currículo.
 🔹 [**Calmaria Imóveis**](https://github.com/daletejesus/calmaria-imoveis)  
 Projeto de extensão.
 
+🔹 [**Meus Mapas**](https://github.com/daletejesus/meus-mapas.git)  
+Sistema para criar e gerenciar mapas usando Next.js, Prisma, PostgreSQL e API REST, com testes de rotas no Postman.
+
 ---
 
 ## 📫 Como me encontrar
